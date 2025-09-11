@@ -1,0 +1,13 @@
+E:\code\vs code\WFM3u8\WFM3u8\bin\Debug\WFM3u8.exe.config
+E:\code\vs code\WFM3u8\WFM3u8\bin\Debug\WFM3u8.exe
+E:\code\vs code\WFM3u8\WFM3u8\bin\Debug\WFM3u8.pdb
+E:\code\vs code\WFM3u8\WFM3u8\obj\Debug\WFM3u8.csproj.AssemblyReference.cache
+E:\code\vs code\WFM3u8\WFM3u8\obj\Debug\WFM3u8.Form1.resources
+E:\code\vs code\WFM3u8\WFM3u8\obj\Debug\WFM3u8.Properties.Resources.resources
+E:\code\vs code\WFM3u8\WFM3u8\obj\Debug\WFM3u8.csproj.GenerateResource.cache
+E:\code\vs code\WFM3u8\WFM3u8\obj\Debug\WFM3u8.csproj.CoreCompileInputs.cache
+E:\code\vs code\WFM3u8\WFM3u8\obj\Debug\WFM3u8.exe
+E:\code\vs code\WFM3u8\WFM3u8\obj\Debug\WFM3u8.pdb
+E:\code\vs code\WFM3u8\WFM3u8\obj\Debug\WFM3u8.exe.config
+E:\code\vs code\WFM3u8\WFM3u8\obj\Debug\WFM3u8.FSetting.resources
+E:\code\vs code\WFM3u8\WFM3u8\obj\Debug\WFM3u8.Resource1.resources
